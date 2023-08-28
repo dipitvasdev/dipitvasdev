@@ -1,6 +1,6 @@
 # Hi there 👋, fellow coders! 
 
-![New York Skyline](IMG_6813.HEIC)
+![New York Skyline](img_skyline.png)
 
 ## 🚀 About Me
 
