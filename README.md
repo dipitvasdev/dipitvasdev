@@ -13,10 +13,11 @@
 
 ## 📊 GitHub Stats:
 
-[![](https://visitcount.itsvg.in/api?id=dipitvasdev&icon=5&color=3)](https://visitcount.itsvg.in)
-![](https://github-readme-stats.vercel.app/api?username=dipitvasdev&theme=vue&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=dipitvasdev&theme=vue&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dipitvasdev&theme=vue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dipitvasdev&show_icons=true&locale=en&layout=compact" alt="dipitvasdev" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dipitvasdev&show_icons=true&locale=en" alt="dipitvasdev" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dipitvasdev&" alt="dipitvasdev" /></p>
 
 ## 🚀 Notable Achievements
 
