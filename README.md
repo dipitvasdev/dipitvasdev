@@ -15,8 +15,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dipitvasdev&show_icons=true&locale=en&layout=compact" alt="dipitvasdev" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dipitvasdev&show_icons=true&locale=en" alt="dipitvasdev" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dipitvasdev&" alt="dipitvasdev" /></p>
 
 ## 🚀 Notable Achievements
