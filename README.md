@@ -4,7 +4,7 @@
 
 ## 🚀 About Me
 
-🎓 Currently pursuing a Master's in Computer Engineering at New York University (Class of 2024).
+🎓 Completed Master's in Computer Engineering at New York University (Class of 2024). 
 🤖 AI enthusiast with a knack for diving deep into Machine Learning, NLP, and Computer Vision.
 🚀 Always building, learning, and growing!
 
