@@ -1,43 +1,87 @@
-# Hi there 👋, fellow coders!
+# 👋 Hi, I'm Dipit Vasdev! 
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+### 🎓 **AI Enthusiast | Full Stack Developer | Problem Solver**
 
-## 🚀 About Me
+---
 
-🎓 Completed Master's in Computer Engineering at New York University (Class of 2024). 
-🤖 AI enthusiast with a knack for diving deep into Machine Learning, NLP, and Computer Vision.
-🚀 Always building, learning, and growing!
+## 🌟 **About Me**
 
-## 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GRAFANA](https://img.shields.io/badge/grafana-F46800.svg?style=for-the-badge&logo=grafana&logoColor=white&color=%23F46800) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
+I'm a **multi-hat-wearing** engineer, passionate about leveraging AI, machine learning, and full-stack development to solve real-world problems. With a **Master’s in Computer Engineering** from **NYU (Class of 2024)**, I love diving deep into **core AI challenges**, scaling solutions, and delivering impactful products. Whether it's optimizing a system or building from the ground up, I thrive in fast-paced startup environments.
 
+---
 
-## 🚀 Notable Achievements
+## 🎩 **Hats I Wear** 
 
-🥇 Secured the 2nd spot in the eYantra Robotics Competition (IIT Bombay).
-📚 Published an article on predictive maintenance in Computational Intelligence.
-💰 Awarded Merit-Based Scholarship at New York University.
-🔍 Recognized as a Top Data Science Voice on LinkedIn.
+### 🎩 **The AI Engineer**
+- Building **NLP** models, **Vision Transformers**, and **multi-agent systems**.
+- Fine-tuning models like **DistilBERT**, **PyTorch**, and **TensorFlow** for specific tasks.
+- Recent project: Created a spoiler-free movie review classifier with **78.49% accuracy**.
 
-## 🚀 Passion Projects
+### 🎩 **The Full-Stack Developer**
+- End-to-end web development using **React**, **Next.js**, **Node.js**, and **Django**.
+- Expertise in **frontend-backend integrations** with a focus on **scalability** and **performance**.
+- Built and deployed a **recipe-sharing platform** using **React**, **AWS S3**, and **PostgreSQL**.
 
-- **Spoiler-Free Reviews:** Designed an innovative solution for identifying spoilers in movie reviews using Distil BERT, resulting in an accuracy rate of 78.49%. This achievement surpasses benchmarks set by previous research work, for this task and dataset.
+### 🎩 **The DevOps Guru**
+- CI/CD pipelines with **GitLab** and automated deployments.
+- Scaled cloud infrastructure with **Docker**, **Kubernetes**, and **AWS EC2**.
+- Developed AWS **Lambda** functions to automate tasks, reducing cost by **25%**.
 
-- **Real-time Car Anomaly Detection:** Collaborated on a project to detect anomalies in real-time car data, reaching an F1 Score of 0.86 using an Isolation Forest model and statistical methods.
+### 🎩 **The Data Scientist**
+- Applied machine learning models like **Isolation Forest** for anomaly detection.
+- Data-driven decision making with **NumPy**, **Pandas**, and **Matplotlib**.
+- Built predictive maintenance solutions for large datasets with **Scikit-learn**.
 
-- **Recipe Sharing Platform:** Developed a comprehensive recipe-sharing application with a React.js frontend and Django backend. Implemented CRUD operations for recipes, user authentication, and image handling. Deployed frontend on AWS S3 with CloudFront and backend on EC2 with PostgreSQL, showcasing proficiency in full-stack development and cloud deployment.
+---
 
-## 🎲 Hobbies Beyond the Code
+## 🛠️ **Tech Stack**
 
-While I'm all about tech, I also like to keep things fun and light:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)  
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)  
+![AWS](https://img.shields.io/badge/aws-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=%23F90) ![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 
-- ♟️ **Chess Enthusiast**: Exploring the world of chess, one move at a time.
-- 📖 **Current Read**: "Quiet: The Power of Introverts in a World That Can't Stop Talking" by Susan Cain
-- 🎮 **Gamer at Heart**: Embracing the virtual worlds of gaming.
-- 🍳 **Cooking Aficionado**: Trying out new recipes in the kitchen.
+---
 
-## 🌐 Let's Connect!
+## 💡 **Notable Projects**
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dipit.v) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dipit-vasdev) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@dipsindata) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/DipitVasdev) 
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/dipit) 
+### **🎬 Spoiler-Free Movie Reviews**
+- Built a spoiler detection system using **DistilBERT**, achieving a high accuracy rate.  
+- Designed to improve user experiences by removing spoilers in real-time.
 
+### **🚗 Real-Time Car Anomaly Detection**
+- Developed an anomaly detection model using **Isolation Forest**, improving detection accuracy with real-time data streams.
+- Achieved an **F1 score of 0.86**.
+
+### **🍲 Recipe Sharing Platform**
+- Built a full-stack platform using **React**, **AWS S3**, **PostgreSQL**, and **Django**.  
+- Implemented secure user authentication and scalable cloud infrastructure.
+
+---
+
+## 🌱 **What I'm Learning Now**
+
+- **AI Agent Frameworks**: Experimenting with multi-agent systems for customer support automation.
+- **Advanced DevOps**: Exploring new ways to optimize CI/CD pipelines with **Kubernetes** and **Serverless Architectures**.
+
+---
+
+## 🎲 **Beyond the Code**
+
+- **Chess Enthusiast** ♟️: Improving strategic thinking, one move at a time.
+- **Current Read** 📖: *"Quiet: The Power of Introverts"* by Susan Cain.
+- **Gamer** 🎮: Exploring virtual worlds when I’m not building tech!
+
+---
+
+## 🚀 **Why Startups Love Me**
+
+- 🔥 **Startup Mindset**: I’ve worked in fast-paced, dynamic environments where I wear multiple hats and contribute to all aspects of development.  
+- 💡 **Full Ownership**: Comfortable taking on high-ownership roles—I'm always excited to tackle challenges head-on, whether it’s building a product from scratch or scaling an existing one.  
+- 📈 **Data-Driven**: I leverage data and AI to bring intelligent solutions to life. Startups need to move fast, and I make sure we scale smartly.  
+
+---
+
+## 📫 **Let’s Connect**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dipit-vasdev) [![GitHub](https://img.shields.io/badge/github-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dipitvasdev)  
